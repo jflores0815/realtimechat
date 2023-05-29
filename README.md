@@ -1,5 +1,7 @@
-## frontend - reactjs
-## backend - firebase
+```sh
+frontend - reactjs
+backend - firebase
+```
 
 clone my repository
 
