@@ -3,14 +3,19 @@ frontend - reactjs
 backend - firebase
 ```
 
+```sh
 clone my repository
 
 to install dependencies type npm install
 
 after installing type npm start to start the project
+```
 
-## incase of error (backend)
+```sh
+incase of error (backend)
+```
 
+```sh
 create / setup firebase in google
 
 setup firebase
@@ -24,3 +29,4 @@ enable storage
 enable firestore database switch to native mode to enable it.
 
 go to cloud firestore rules set read and write false to true
+```
