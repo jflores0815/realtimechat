@@ -3,6 +3,7 @@ frontend - reactjs
 backend - firebase
 ```
 
+Setup Repository
 ```sh
 clone my repository
 
@@ -15,10 +16,9 @@ after installing type npm start to start the project
 incase of error (backend)
 ```
 
+Setup Firebase
 ```sh
 create / setup firebase in google
-
-setup firebase
 
 create new project and setup web platform to setup api key
 
